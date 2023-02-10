@@ -1,6 +1,6 @@
-# flutter_application_test
+# Proyecto 1 - UCamp Flutter
 
-A new Flutter project.
+Counter app - with background color and set up screen.
 
 ## Getting Started
 
